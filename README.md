@@ -5,4 +5,4 @@ Using JavaScript and CSS.
 # Screenshot:
 ![dg2](https://github.com/MdRayhanAhmed/Dice-Game/assets/67359238/7ae682c5-093a-4cc7-82ca-b9021bd4cdf8)
 ![dg1](https://github.com/MdRayhanAhmed/Dice-Game/assets/67359238/984c9d5a-a66c-4862-8ac3-947520e124bc)
-![dg3](https://github.com/MdRayhanAhmed/Dice-Game/assets/67359238/7d297b9c-d271-447b-a312-d2690eb9df24)
+![dg3](https://github.com/MdRayhanAhmed/Dice-Game/assets/67359238/b93377f5-e989-470d-aecc-c67b0ba3d409)
